@@ -4,7 +4,7 @@ The ecological well-being of Marsabit hangs in a delicate equilibrium, swayed by
 
 Here's what to do:<br>
   -Dive into the data, have fun analyzing it, and create excellent visuals.<br>
-  -Make the data better and get creative with features.<>br
+  -Make the data better and get creative with features.<br>
   -Put together a machine learning model, explain why you picked it, and present the features that matter most.<br>
   -Test your model and see how it's performing using appropriate measurements or metrics.<br>
   -Don't stop at one data source – find more and mix it in.<br>
